@@ -59,6 +59,8 @@ Coming soon...
 -> Project for DSS 
 
 -> Project for Computational Methods in Science and Engineering
+
+-> Implementations of popular algorithms
   
   
 Additionally, you're welcome to explore my LeetCode and GfG accounts for further examples of my problem-solving skills.
