@@ -19,7 +19,9 @@ Here are my main repositories:
   The repository contains solutions for differential equations using the Finite Element Method, implemented in Python.
   
 Additionally, you're welcome to explore my LeetCode and GfG accounts for further examples of my problem-solving skills.
+
 -> https://leetcode.com/006maciek/
+
 -> https://auth.geeksforgeeks.org/user/006mae309
 
 
