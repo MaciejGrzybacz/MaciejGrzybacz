@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are my main repositories:
+Here are my repositories:
 
 -> Darwin World 
 
@@ -14,18 +14,35 @@ Here are my main repositories:
   Minizinc project, designed to allocate students to groups based on their preferences while minimizing the number of breaks in their schedule. 
 
   https://github.com/MaciejGrzybacz/GroupScheduling
+  
 
 -> Operational Systems Course
 
   Repository with solutions for OS Course labolatories, implemented in C language.
   
   https://github.com/MaciejGrzybacz/SysOpy
+  
 
 -> FEM Solution
 
-  The repository contains solutions for differential equations using the Finite Element Method, implemented in Python.
+  The repository contains solutions for differential equation using the Finite Element Method, implemented in Python.
   
   https://github.com/MaciejGrzybacz/FEM
+  
+
+-> Discrete System Simulations
+
+  https://github.com/MaciejGrzybacz/Discrete-Event-System-Simulations
+
+  This repository contains solutions for DSS labolatories, mostly implemented in Java.
+
+
+-> Introduction to Databases
+
+  https://github.com/MaciejGrzybacz/Introduction-to-Databases
+
+  The repository contains a lot of querries written in SQL while preparing to SQL exam.
+
   
   
 Additionally, you're welcome to explore my LeetCode and GfG accounts for further examples of my problem-solving skills.
