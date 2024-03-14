@@ -32,9 +32,10 @@ Here are my repositories:
 
 -> Discrete System Simulations
 
+  This repository contains solutions for DSS labolatories, mostly implemented in Java.
+
   https://github.com/MaciejGrzybacz/Discrete-Event-System-Simulations
 
-  This repository contains solutions for DSS labolatories, mostly implemented in Java.
   
 
 -> C++ Course
@@ -44,9 +45,10 @@ Here are my repositories:
 
 -> Introduction to Databases
 
+  The repository contains a lot of querries written in SQL while preparing to SQL exam.
+
   https://github.com/MaciejGrzybacz/Introduction-to-Databases
 
-  The repository contains a lot of querries written in SQL while preparing to SQL exam.
 
 Coming soon...
 
