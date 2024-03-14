@@ -35,6 +35,11 @@ Here are my repositories:
   https://github.com/MaciejGrzybacz/Discrete-Event-System-Simulations
 
   This repository contains solutions for DSS labolatories, mostly implemented in Java.
+  
+
+-> C++ Course
+
+  https://github.com/MaciejGrzybacz/CPP_Course
 
 
 -> Introduction to Databases
@@ -43,6 +48,17 @@ Here are my repositories:
 
   The repository contains a lot of querries written in SQL while preparing to SQL exam.
 
+Coming soon...
+
+-> Chess app implemented in Python
+
+-> Face emotions recognition implemented in C++
+
+-> Imlementation of Neural Network
+
+-> Project for DSS 
+
+-> Project for Computational Methods in Science and Engineering
   
   
 Additionally, you're welcome to explore my LeetCode and GfG accounts for further examples of my problem-solving skills.
