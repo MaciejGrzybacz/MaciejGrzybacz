@@ -3,20 +3,30 @@
 Here are my main repositories:
 
 -> Darwin World 
-  https://github.com/MaciejGrzybacz/PO_PROJEKT_DYBALSKI_GRZYBACZ
+
   Simulation of world evolution implemented in Java and JavaFX.
+  
+  https://github.com/MaciejGrzybacz/PO_PROJEKT_DYBALSKI_GRZYBACZ
+  
 
 -> Group Scheduling
-  https://github.com/MaciejGrzybacz/GroupScheduling
+ 
   The Group Scheduling project is a tMinizinc project, designed to allocate students to groups based on their preferences while minimizing the number of breaks in their schedule. 
 
+  https://github.com/MaciejGrzybacz/GroupScheduling
+
 -> Operational Systems Course
-  https://github.com/MaciejGrzybacz/SysOpy
+
   Repository with solutions for OS Course labolatories, implemented in C language.
+  
+  https://github.com/MaciejGrzybacz/SysOpy
 
 -> FEM Solution
-  https://github.com/MaciejGrzybacz/FEM
+
   The repository contains solutions for differential equations using the Finite Element Method, implemented in Python.
+  
+  https://github.com/MaciejGrzybacz/FEM
+  
   
 Additionally, you're welcome to explore my LeetCode and GfG accounts for further examples of my problem-solving skills.
 
