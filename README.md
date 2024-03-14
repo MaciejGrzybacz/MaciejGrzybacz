@@ -11,7 +11,7 @@ Here are my main repositories:
 
 -> Group Scheduling
  
-  The Group Scheduling project is a tMinizinc project, designed to allocate students to groups based on their preferences while minimizing the number of breaks in their schedule. 
+  Minizinc project, designed to allocate students to groups based on their preferences while minimizing the number of breaks in their schedule. 
 
   https://github.com/MaciejGrzybacz/GroupScheduling
 
