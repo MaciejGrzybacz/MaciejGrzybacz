@@ -6,7 +6,7 @@ Here are my repositories:
 
   Simulation of world evolution implemented in Java and JavaFX.
   
-  https://github.com/MaciejGrzybacz/PO_PROJEKT_DYBALSKI_GRZYBACZ
+  https://github.com/MaciejGrzybacz/Darwin-World
   
 
 -> Group Scheduling
