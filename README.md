@@ -9,6 +9,34 @@ Here are my repositories:
   https://github.com/MaciejGrzybacz/Darwin-World
   
 
+-> Aircraft Recognition app
+
+  Tensorflow neural network to recognise various military aircraft types.
+  
+  https://github.com/MaciejGrzybacz/AirplaneRecognition
+  
+
+  -> Face Recognition app
+
+  C++ application, built with Qt, OpenCV, SQLite and dlib libraries. 
+  
+  https://github.com/MaciejGrzybacz/FaceApp
+  
+
+-> Chess application
+
+  Pygame chess app. 
+  
+  https://github.com/MaciejGrzybacz/ChessGame
+
+  
+-> Algorithms and Data Structures
+
+  This repo contains implementation of popular algorithms and data structures, mainly written in Python.
+
+  https://github.com/MaciejGrzybacz/AlgorithmsAndDataStructures
+
+  
 -> Group Scheduling
  
   Minizinc project, designed to allocate students to groups based on their preferences while minimizing the number of breaks in their schedule. 
@@ -36,7 +64,6 @@ Here are my repositories:
 
   https://github.com/MaciejGrzybacz/Discrete-Event-System-Simulations
 
-  
 
 -> C++ Course
 
@@ -52,17 +79,9 @@ Here are my repositories:
 
 Coming soon...
 
--> Chess app implemented in Python
-
--> Face emotions recognition implemented in C++
-
--> Imlementation of Neural Network
-
 -> Project for DSS 
 
 -> Project for Computational Methods in Science and Engineering
-
--> Implementations of popular algorithms
   
   
 Additionally, you're welcome to explore my LeetCode and GfG accounts for further examples of my problem-solving skills.
