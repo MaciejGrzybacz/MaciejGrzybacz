@@ -18,9 +18,9 @@ Here are my repositories:
 
   -> Face Recognition app
 
-  C++ application, built with Qt, OpenCV, SQLite and dlib libraries. 
+  C++ application, built with OpenCV and SQLite libraries. It's purpose is to recognise known faces on video, for example webcam.
   
-  https://github.com/MaciejGrzybacz/FaceApp
+  https://github.com/MaciejGrzybacz/FaceApp](https://github.com/MaciejGrzybacz/FaceRecognizer
   
 
 -> Chess application
