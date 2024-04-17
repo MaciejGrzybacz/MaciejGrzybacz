@@ -20,7 +20,7 @@ Here are my repositories:
 
   C++ application, built with OpenCV and SQLite libraries. It's purpose is to recognise known faces on video, for example webcam.
   
-  https://github.com/MaciejGrzybacz/FaceApp](https://github.com/MaciejGrzybacz/FaceRecognizer
+  https://github.com/MaciejGrzybacz/FaceRecognizer
   
 
 -> Chess application
