@@ -28,7 +28,7 @@ Here are my repositories:
 - **FEM Solution**: Solution for differential equations using the Finite Element Method, implemented in Python.
   [GitHub Repo](https://github.com/MaciejGrzybacz/FEM)
 
-- **Discrete System Simulations**: Solutions for DSS laboratories, implemented in Java.
+- **Discrete System Simulations**: Solutions for DSS laboratories, implemented in Java and Swing.
   [GitHub Repo](https://github.com/MaciejGrzybacz/Discrete-Event-System-Simulations)
 
 - **Introduction to Databases**: Repository containing many queries written in SQL while preparing for the SQL exam.
