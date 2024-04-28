@@ -17,6 +17,9 @@ Here are my repositories:
 - **Algorithms and Data Structures**: Implementation of popular algorithms and data structures, mainly written in Python.
   [GitHub Repo](https://github.com/MaciejGrzybacz/AlgorithmsAndDataStructures)
 
+- **Leetcode problems**: Solutions for Leetcode problems, written in Python, C++ and Java.
+  [GitHub Repo](https://github.com/MaciejGrzybacz/Leetcode-problems)
+
 - **C++ Course**: [GitHub Repo](https://github.com/MaciejGrzybacz/CPP_Course)
 
 - **Operational Systems Course**: Repository with solutions for OS Course laboratories, implemented in C language.
