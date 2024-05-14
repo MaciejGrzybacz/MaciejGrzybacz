@@ -11,6 +11,9 @@ Here are my repositories:
 - **Face Recognition app**: C++ application, built with OpenCV and SQLite libraries. Its purpose is to recognize known faces on video, for example webcam.
   [GitHub Repo](https://github.com/MaciejGrzybacz/FaceRecognizer)
 
+- **PasswordGenerator**: A user-friendly application built with the Qt framework, designed to generate secure, customizable passwords.
+  [GitHub Repo](https://github.com/MaciejGrzybacz/PasswordGenerator)
+
 - **Chess application**: Pygame chess app.
   [GitHub Repo](https://github.com/MaciejGrzybacz/ChessGame)
 
