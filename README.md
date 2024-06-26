@@ -5,23 +5,23 @@ Here are my repositories:
 - **Darwin World**: Simulation of world evolution implemented in Java and JavaFX.
   [GitHub Repo](https://github.com/MaciejGrzybacz/Darwin-World)
 
-- **Aircraft Recognition app**: Tensorflow neural network to recognize various military aircraft types.
-  [GitHub Repo](https://github.com/MaciejGrzybacz/AirplaneRecognition)
-
-- **Face Recognition app**: C++ application, built with OpenCV and SQLite libraries. Its purpose is to recognize known faces on video, for example webcam.
-  [GitHub Repo](https://github.com/MaciejGrzybacz/FaceRecognizer)
-
-- **PasswordGenerator**: A user-friendly application built with the Qt framework, designed to generate secure, customizable passwords.
-  [GitHub Repo](https://github.com/MaciejGrzybacz/PasswordGenerator)
-
 - **Chess application**: Pygame chess app.
   [GitHub Repo](https://github.com/MaciejGrzybacz/ChessGame)
+
+- **Aircraft Recognition app**: Tensorflow neural network to recognize various military aircraft types.
+  [GitHub Repo](https://github.com/MaciejGrzybacz/AirplaneRecognition)
 
 - **Algorithms and Data Structures**: Implementation of popular algorithms and data structures, mainly written in Python.
   [GitHub Repo](https://github.com/MaciejGrzybacz/AlgorithmsAndDataStructures)
 
 - **Leetcode problems**: Solutions for Leetcode problems, written in Python, C++ and Java.
   [GitHub Repo](https://github.com/MaciejGrzybacz/Leetcode-problems)
+
+- **Face Recognition app**: C++ application, built with OpenCV and SQLite libraries. Its purpose is to recognize known faces on video, for example webcam.
+  [GitHub Repo](https://github.com/MaciejGrzybacz/FaceRecognizer)
+
+- **PasswordGenerator**: A user-friendly application built with the Qt framework, designed to generate secure, customizable passwords.
+  [GitHub Repo](https://github.com/MaciejGrzybacz/PasswordGenerator)
 
 - **C++ Course**: [GitHub Repo](https://github.com/MaciejGrzybacz/CPP_Course)
 
