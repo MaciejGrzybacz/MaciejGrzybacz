@@ -8,6 +8,9 @@ Here are my repositories:
 - **Chess application**: Pygame chess app.
   [GitHub Repo](https://github.com/MaciejGrzybacz/ChessGame)
 
+- **Maze solving with ant colony optimization**: Biologically inspired algorithm written in Python to solve complex mazes with Ant Colony Optimization.
+  [Github Repo](https://github.com/MaciejGrzybacz/complex-maze-path-finding)
+
 - **Aircraft Recognition app**: Tensorflow neural network to recognize various military aircraft types.
   [GitHub Repo](https://github.com/MaciejGrzybacz/AirplaneRecognition)
 
@@ -39,11 +42,6 @@ Here are my repositories:
 
 - **Introduction to Databases**: Repository containing many queries written in SQL while preparing for the SQL exam.
   [GitHub Repo](https://github.com/MaciejGrzybacz/Introduction-to-Databases)
-
-Coming soon...
-
-- Project for DSS
-- Project for Computational Methods in Science and Engineering
 
 Additionally, you're welcome to explore my LeetCode and GfG accounts for further examples of my problem-solving skills:
 
