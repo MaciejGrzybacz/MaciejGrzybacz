@@ -21,7 +21,7 @@ Here are my repositories:
   [GitHub Repo](https://github.com/MaciejGrzybacz/Leetcode-problems)
 
 - **C++ Exercises**: Mini projects aimed to learn a modern C++.
-- [GitHub Repo](https://github.com/MaciejGrzybacz/Cpp-Exercises)
+ [GitHub Repo](https://github.com/MaciejGrzybacz/Cpp-Exercises)
 
 - **Face Recognition app**: C++ application, built with OpenCV and SQLite libraries. Its purpose is to recognize known faces on video, for example webcam.
   [GitHub Repo](https://github.com/MaciejGrzybacz/FaceRecognizer)
