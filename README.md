@@ -46,8 +46,3 @@ Here are my repositories:
 
 - **Introduction to Databases**: Repository containing many queries written in SQL while preparing for the SQL exam.
   [GitHub Repo](https://github.com/MaciejGrzybacz/Introduction-to-Databases)
-
-
-Additionally, you're welcome to explore my LeetCode account for further examples of my problem-solving skills:
-
-- [LeetCode Profile](https://leetcode.com/u/Maciej_Grzybacz/)
