@@ -2,9 +2,6 @@
 
 Here are my repositories:
 
-- **Darwin World**: Simulation of world evolution implemented in Java and JavaFX.
-  [GitHub Repo](https://github.com/MaciejGrzybacz/Darwin-World)
-
 - **Chess application**: Pygame chess app with Stockfish integration.
   [GitHub Repo](https://github.com/MaciejGrzybacz/ChessGame)
 
@@ -14,9 +11,15 @@ Here are my repositories:
 - **Aircraft Recognition app**: Tensorflow neural network to recognize various military aircraft types.
   [GitHub Repo](https://github.com/MaciejGrzybacz/AirplaneRecognition)
 
+- **Concurrency in C++**: A collection of exercises designed to strengthen my skills in C++ concurrency.
+  [GitHub Repo](https://github.com/MaciejGrzybacz/CppConcurrency)
+
 - **Algorithms and Data Structures**: Implementation of popular algorithms and data structures, written in C++.
   [GitHub Repo](https://github.com/MaciejGrzybacz/DSA_Project)
 
+- **Darwin World**: Simulation of world evolution implemented in Java and JavaFX.
+  [GitHub Repo](https://github.com/MaciejGrzybacz/Darwin-World)
+  
 - **Leetcode problems**: Solutions for Leetcode problems, written in Python, C++ and Java.
   [GitHub Repo](https://github.com/MaciejGrzybacz/Leetcode-problems)
 
@@ -40,9 +43,3 @@ Here are my repositories:
 
 - **FEM Solution**: Solution for differential equations using the Finite Element Method, implemented in Python.
   [GitHub Repo](https://github.com/MaciejGrzybacz/FEM)
-
-- **Discrete System Simulations**: Solutions for DSS laboratories, implemented in Java and Swing.
-  [GitHub Repo](https://github.com/MaciejGrzybacz/Discrete-Event-System-Simulations)
-
-- **Introduction to Databases**: Repository containing many queries written in SQL while preparing for the SQL exam.
-  [GitHub Repo](https://github.com/MaciejGrzybacz/Introduction-to-Databases)
